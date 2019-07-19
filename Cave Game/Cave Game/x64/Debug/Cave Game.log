@@ -1,0 +1,7 @@
+﻿  SFMLTemplate.cpp
+c:\users\id student\desktop\angelina t\cave game\cave game\sfmltemplate.cpp(64): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\id student\desktop\angelina t\cave game\cave game\sfmltemplate.cpp(97): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\id student\desktop\angelina t\cave game\cave game\sfmltemplate.cpp(117): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\id student\desktop\angelina t\cave game\cave game\sfmltemplate.cpp(361): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\id student\desktop\angelina t\cave game\cave game\sfmltemplate.cpp(365): warning C4305: '+=': truncation from 'double' to 'float'
+  Cave Game.vcxproj -> C:\Users\iD Student\Desktop\Angelina T\Cave Game\x64\Debug\Cave Game.exe
